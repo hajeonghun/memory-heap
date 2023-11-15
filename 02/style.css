@@ -1,0 +1,17 @@
+.horizon {
+    background-color: blueviolet;
+    height: 5px;
+    margin: 50px 0;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    padding: 3rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+}

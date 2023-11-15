@@ -8,7 +8,7 @@ function createHTMLElement(){
 }
 
 function createObject(){
-    desk = new _Desk(100, 300);
+    const desk = new _Desk(100, 300);
     console.log({desk});
 
     function _Desk(width, height){
