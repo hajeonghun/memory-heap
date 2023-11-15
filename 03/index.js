@@ -20,6 +20,7 @@ function clean() {
         createHTMLElement();
     }
     removeHTMLElement();
+    console.log('Clean !!')
 }
 
 function createObject(){
